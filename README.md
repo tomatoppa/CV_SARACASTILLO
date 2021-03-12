@@ -18,6 +18,7 @@ Ingles (A2)
 Me gusta mucho empatizar con la gente, tambien soy una persona trabajadora 
 ## PROYECTOS PERSONALES
 Tengo un negocio con mi compa el ivanovitch,intercambio fotos a cambio de coches y skins
+[ver todos los proyectos >](trabajos.md)
 ## AFICIONES
 Me gusta mucho bloquear a ivan en whatsapp (que se joda)
 
