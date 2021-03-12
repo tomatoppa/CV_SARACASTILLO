@@ -21,6 +21,10 @@ Tengo un negocio con mi compa el ivanovitch,intercambio fotos a cambio de coches
 
 [ver todos los proyectos >](trabajos.md)
 ## AFICIONES
+[ver mis fotos >](fotos.md)
+
+[ver mis videos >](videos.md)
+
 Me gusta mucho bloquear a ivan en whatsapp (que se joda)
 
 jugar al lol aunque soy malillaXD
